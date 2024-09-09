@@ -182,7 +182,7 @@ list-style-type: none;
     padding-bottom:0.625rem ;
 }
 
-
+/*
 @media screen and  (max-width:1194px) {
     html{
         font-size: 15px;
@@ -243,6 +243,8 @@ list-style-type: none;
     }
     
 }
+*/
+
 @media screen and  (max-width:455px) {
    
     html{
@@ -337,7 +339,7 @@ footer #foot ul{
 }
 
 
-
+/*
 @media screen and  (max-width:380px) {
     html{
         font-size: 4px;
@@ -350,3 +352,4 @@ footer #foot ul{
     }
     
 }
+*/
