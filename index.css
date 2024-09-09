@@ -337,6 +337,15 @@ footer #foot ul{
     
 }
 }
+@media screen and  (max-width:360px) {
+ html{
+        font-size: 9.5px;
+        
+ }
+
+}
+
+
 
 
 /*
