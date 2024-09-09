@@ -250,7 +250,7 @@ list-style-type: none;
         
     }
     main {
-        height: 60%;
+        height: 70vh;
         flex-direction: column;
        align-items: flex-start;
         border: 2px solid black;
@@ -313,15 +313,17 @@ main #fourth_heading{
 }
 
 footer {
-    height: 40%;
+   
     box-sizing: border-box;
    padding: 0.5rem;
  
    
 }
 footer #foot{
+   
+    height: 100%;
     box-sizing: border-box;
-    align-items: flex-start;
+    align-items: center;
 
   
     padding: 2rem;
